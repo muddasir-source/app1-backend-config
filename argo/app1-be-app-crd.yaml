@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/CloudWithVarJosh/app1-backend-config.git
+    repoURL: https://github.com/muddasir-source/app1-backend-config.git
     targetRevision: HEAD
     path: backend
   destination:
